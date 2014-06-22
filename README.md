@@ -1,0 +1,4 @@
+stusystem
+=========
+
+student moral system
